@@ -1,0 +1,2 @@
+# investing
+Simple investing strategy
